@@ -1,0 +1,6 @@
+{
+  "name": "Q-OPTIMA",
+  "description": "Quantum Optimization Framework for Intelligent Trust-Aware Matching",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
